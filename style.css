@@ -1,0 +1,107 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-family: 'Montserrat', sans-serif;
+}
+
+main {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.head {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #4E5150;
+}
+
+.head p{
+  color: #BDBDBD;
+}
+
+.foto {
+  width: 150px;
+  margin-top: 50px;
+}
+
+.foto img {
+  width: 100%;
+  border-radius: 15px;
+}
+
+.about {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  margin-top: 30px;
+  gap: 32px;
+}
+
+.about button {
+  padding: 10px 25px;
+  background-color: #E5E5E5;
+  border: none;
+  border-radius: 5px;
+}
+
+.about button h3 {
+  color: #4E5150;
+}
+.about button p {
+  color: #BDBDBD;
+}
+
+.about button:hover {
+  cursor: pointer;
+}
+
+.contain-imgs {
+  width: 100%;
+}
+
+.section1 {
+  margin-top: 60px;
+ 
+  gap: 40px;
+}
+
+.section1 img:nth-child(1){
+  width: 31%;
+  float: left;
+}
+.section1 img:nth-child(2){
+  width:65%;
+  float: right;
+}
+
+.section2 {
+  margin-top: 40px;
+  width: 100%;
+  display: block;
+}
+
+.section2 img {
+  gap: 40px;
+}
+
+.section2 img:nth-child(1){
+  width: 64%;
+  float: left;
+}
+.section2 img:nth-child(2){
+  float: right;
+  width: 34%;
+
+}
+.section2 img:nth-child(3){
+  width: 31.7%;
+}
+.section2 img:nth-child(4){
+  width: 31.7%;
+}
