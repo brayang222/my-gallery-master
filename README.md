@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://recipe-pagee.netlify.app/">
+    <a href="https://my-gallery-mast.netlify.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/brayang222/recipe-page">
+    <a href="https://github.com/brayang222/my-gallery-master">
       Solution
     </a>
     <span> | </span>
